@@ -103,11 +103,11 @@ function App() {
   return (
     <div className='app-container'>
       <div>
-        <h3>Tile Positions</h3>
+
 
         <div>
         {/* <button onClick={binFunc}>Update</button> */}
-        <button onClick={update_req}>Send Request</button>
+        <button onClick={update_req}>Update</button>
         {/* <button onClick={deviceFunc}>device</button> */}
         </div>
       </div>
